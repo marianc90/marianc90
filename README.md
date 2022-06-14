@@ -1,6 +1,6 @@
 ![pexels-max-deroin-51415 (2)](https://user-images.githubusercontent.com/58791994/124398821-a08d8380-dccc-11eb-990f-c45f929547b8.jpg)
 
-### Hola! Mi nombre es Andrés Felipe Velásquez Trujillo 👋
+### Hola! Mi nombre es Mariano Ariel Cuartero👋
 
 Soy desarrollador Full Stack y Matemático. Mi pasión es el constante aprendizaje de tecnologías tanto para el desarrollo web como diferentes ramas de la inteligencia artificial. Tengo conocimiento en HTML | CSS | JavaScript | Python | C | C++ | NodeJS | React | React Native | Redux | Bootstrap | PostgreSQL | Express | Sequelize | GitHub | Git | TypeScript | Ruby | Ruby on Rails |. A actualmente me encuentro capacitándome en TypeScript y React Native.
 
