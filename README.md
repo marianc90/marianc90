@@ -49,7 +49,7 @@ EasyInvest - Fondos Comunes de Inversión
 Landing page para sitio rumano de reparación de automotores.
 
 <p align="center">
-<img  src="https://imgur.com/VmPJPNL" height='250px'>
+<img  src="https://i.imgur.com/VmPJPNL.png" height='250px'>
 </p>
 
 ✔ web site: <a href="https://marianc90.github.io/SMARTCROW/" target="_blank">
