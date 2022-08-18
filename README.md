@@ -23,11 +23,25 @@ Como primer proyecto del curso de Desarrollo Web, desarrollé el sitio de este T
 El mismo se realizó con SASS y Bootstrap.
 
 <p align="center">
-<img  src="https://i.imgur.com/ZuGfv8y.png" width="50%" height='250px'>
+<img  src="https://i.imgur.com/ZuGfv8y.png" height='250px'>
 </p>
 
 ✔ web site: <a href="https://marianc90.github.io/gfc-sacabollos/" target="_blank">
 CEC PRO SACABOLLOS
+</a> 
+
+## <a href="https://github.com/marianc90/Proyecto-JS-CODERHOUSE" target="_blank">EasyInvest</a>
+<p>
+Proyecto final integrador del curso de JAVASCRIPT. En el mismo desarrolle un simulador de una plataforma de compra y venta de Fondos Comunes de Inversion.
+
+El mismo se realizó en Vanilla JS, HTML y CSS.
+
+<p align="center">
+<img  src="https://i.imgur.com/ANqzIUb.jpg" height='250px'>
+</p>
+
+✔ web site: <a href="https://marianc90.github.io/Proyecto-JS-CODERHOUSE/index.html" target="_blank">
+EasyInvest - Fondos Comunes de Inversión
 </a> 
 
 ********
