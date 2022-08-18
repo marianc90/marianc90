@@ -44,6 +44,18 @@ El mismo se realizó en Vanilla JS, HTML y CSS.
 EasyInvest - Fondos Comunes de Inversión
 </a> 
 
+## <a href="https://marianc90.github.io/SMARTCROW/" target="_blank">SmartCrow SRL</a>
+<p>
+Landing page para sitio rumano de reparación de automotores.
+
+<p align="center">
+<img  src="https://imgur.com/VmPJPNL" height='250px'>
+</p>
+
+✔ web site: <a href="https://marianc90.github.io/SMARTCROW/" target="_blank">
+SmartCrow SRL
+</a> 
+
 ********
  
 <br/>
