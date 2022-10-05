@@ -5,7 +5,7 @@
 Soy Desarrollador Full Stack en formación, Licenciado en Comercio Internacional y Técnico en Computación. Me encanta la tecnología, y habiendo dedicado muchos años al sector bancario, los cuales me permitieron independizarme y crecer económicamente, tomé la decisión de retomar mi camino en el mundo IT. 
 Tengo conocimiento en HTML | CSS | JavaScript | Python | GitHub | Git | Redes | y muchas ganas de seguir aprendiendo para aplicar mis conocimientos en proyectos reales.
 
-Sobre mí
+##Sobre mí
 Me considero alguien a quien le encanta aprender constantemente, conocer las distintas tecnologías y sumergirme en nuevos desafíos. A lo largo de mi carrera profesional en el sector bancario pude detectar lo que principalmente me define: Mi interés por cumplir los objetivos, el compromiso con el cliente, y la calidez en mis relaciones interpersonales. A través de los últimos años en Comercio Internacional, me caractericé por lograr acuerdos con importantes empresas y laboratorios, esforzandome en lograr los compromisos adquiridos frente a los constantes cambios normativos del Banco Central. 
 
 ********
@@ -42,6 +42,34 @@ El mismo se realizó en Vanilla JS, HTML y CSS.
 
 ✔ web site: <a href="https://marianc90.github.io/Proyecto-JS-CODERHOUSE/index.html" target="_blank">
 EasyInvest - Fondos Comunes de Inversión
+</a> 
+
+## <a href="https://github.com/marianc90/e-Commerce-REACT-Cuartero-Mariano" target="_blank">MyStore - REACT JS</a>
+<p>
+Proyecto final del curso de REACT JS. El mismo consta de una tienda online, apoyada con Firebase como backend.
+
+Se realizó con REACT, y SASS. El despliegue fue con Vercel.
+
+<p align="center">
+<img  src="https://github.com/marianc90/e-Commerce-REACT-Cuartero-Mariano/raw/master/public/MyStore%20-%20Mariano%20Cuartero's%20App.gif?raw=true" height='250px'>
+</p>
+
+✔ web site: <a href="https://e-commerce-mystore.vercel.app/" target="_blank">
+MyStore - REACT JS
+</a> 
+
+## <a href="https://github.com/marianc90/Entrega1_Fernandez_Cuartero_Torres" target="_blank">Blog Python</a>
+<p>
+Proyecto del curso de PYTHON realizado en DJANGO. Es un blog con CRUD de usuarios, articulos y mensajería.
+
+Para los templates se utilizó una plantilla con Bootstrap. Para el deployment se utilizó Python Anywhere.
+
+<p align="center">
+<img  src="https://github.com/marti-fdez/Entrega1_Fernandez_Cuartero_Torres/raw/99ce287b983549e84eb3bb81a8dacba0c9d0396d/Setup%20-%20Awesome%20Screenshot.gif" height='250px'>
+</p>
+
+✔ web site: <a href="http://marianc90.pythonanywhere.com/" target="_blank">
+Blog Python - DJANGO/PYTHON
 </a> 
 
 ## <a href="https://marianc90.github.io/SMARTCROW/" target="_blank">SmartCrow SRL</a>
