@@ -5,7 +5,7 @@
 I am a Full Stack Developer in training, Bachelor of International Trade and Computer Technician. I love technology, and having spent many years in the banking sector, which allowed me to become independent and grow economically, I made the decision to resume my path in the IT world.
 I have knowledge in HTML | CSS | JavaScript | Python | REACT | DJANGO | Git | Networks | and eager to continue learning to apply my knowledge in real projects.
 
-##About me
+## About me
 I consider myself someone who loves to constantly learning, acquire skills in different technologies and immerse myself in new challenges. Throughout my professional career in the banking sector, I was able to detect what mainly defines me: My interest in meeting objectives, commitment with clients, and warmth interpersonal relationships. Over the last few years in International Trade, I have characterized myself by reaching agreements with important companies and laboratories, striving to achieve the commitments acquired in the face of constant regulatory changes by the Central Bank.
 
 ********
@@ -15,7 +15,7 @@ I consider myself someone who loves to constantly learning, acquire skills in di
 Soy Desarrollador Full Stack en formación, Licenciado en Comercio Internacional y Técnico en Computación. Me encanta la tecnología, y habiendo dedicado muchos años al sector bancario, los cuales me permitieron independizarme y crecer económicamente, tomé la decisión de retomar mi camino en el mundo IT. 
 Tengo conocimiento en HTML | CSS | JavaScript | Python | GitHub | Git | Redes | y muchas ganas de seguir aprendiendo para aplicar mis conocimientos en proyectos reales.
 
-##Sobre mí
+## Sobre mí
 Me considero alguien a quien le encanta aprender constantemente, conocer las distintas tecnologías y sumergirme en nuevos desafíos. A lo largo de mi carrera profesional en el sector bancario pude detectar lo que principalmente me define: Mi interés por cumplir los objetivos, el compromiso con el cliente, y la calidez en mis relaciones interpersonales. A través de los últimos años en Comercio Internacional, me caractericé por lograr acuerdos con importantes empresas y laboratorios, esforzandome en lograr los compromisos adquiridos frente a los constantes cambios normativos del Banco Central. 
 
 ********
