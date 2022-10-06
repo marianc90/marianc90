@@ -113,11 +113,11 @@ Blog Python - DJANGO/PYTHON
 ## <a href="https://marianc90.github.io/SMARTCROW/" target="_blank">SmartCrow SRL</a>
 <p>
  
-Landing page for Romanian car repair site.
+Landing page for Romanian car repair site. (Made in 2 hours with a BOOTSTRAP TEMPLATE)
  
  ******
  
-Landing page para sitio rumano de reparación de automotores.
+Landing page para sitio rumano de reparación de automotores. (Hecha en 2 horas con BOOTSTRAP TEMPLATE)
 
 <p align="center">
 <img  src="https://i.imgur.com/VmPJPNL.png" height='250px'>
