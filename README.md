@@ -25,7 +25,7 @@ Me considero alguien a quien le encanta aprender constantemente, conocer las dis
 
 <hr/>
 
-<h1 align="center"> Proyectos </h1>
+<h1 align="center"> Projects / Proyectos </h1>
 
 ## <a href="https://github.com/marianc90/gfc-sacabollos" target="_blank">CEC PRO SACABOLLOS</a>
 <p>
@@ -132,7 +132,7 @@ SmartCrow SRL
 <br/>
 
   <hr/>
-  Contact <br/>
+  Contact / Contacto <br/>
 ✔ Linkedin: <a href="https://www.linkedin.com/in/mariano-cuartero-393bbb38/">https://www.linkedin.com/in/mariano-cuartero-393bbb38/</a> <br/>
 ✔ WP: <a href="https://api.whatsapp.com/send?phone=549113814376&text=Gracias%20por%20contactar!" target="_blank">+54 9 11 3814 3176</a> (Móvil) <br/>
 ✔ E-mail: cuarteroma@gamil.com <br/>
