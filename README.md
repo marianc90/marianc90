@@ -71,7 +71,7 @@ EasyInvest - Fondos Comunes de Inversión
 ## <a href="https://github.com/marianc90/e-Commerce-REACT-Cuartero-Mariano" target="_blank">MyStore - REACT JS</a>
 <p>
  
-Final project of the REACT JS course. It consists of an online store, supported by Firebase as a backend.
+Final project of REACT JS course. It consists of an online store, supported by Firebase as a backend.
 
 It was done with REACT, and SASS. The deployment was with Vercel.
  
@@ -92,7 +92,7 @@ MyStore - REACT JS
 ## <a href="https://github.com/marianc90/Entrega1_Fernandez_Cuartero_Torres" target="_blank">Blog Python</a>
 <p>
  
-Project of the PYTHON course made in DJANGO. It is a blog with CRUD of users, articles and messaging.
+Project of PYTHON course made in DJANGO. It is a blog with CRUD of users, articles and messaging.
 
 For the templates, a template with Bootstrap was used. Python Anywhere was used for the deployment.
  
