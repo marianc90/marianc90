@@ -47,7 +47,7 @@ El mismo se realizó con SASS y Bootstrap.
 CEC PRO SACABOLLOS
 </a> 
  
- ## <a href="https://github.com/marianc90/gfc-sacabollos" target="_blank">Café Blends</a>
+ ## <a href="https://github.com/marianc90/CAC-22514-Cuartero-Garcia-Longarzo" target="_blank">Café Blends</a>
 <p>
 As the first project of the Full Stack Python course, I developed the website for this Café Blends Shop.
 
@@ -66,8 +66,6 @@ El diseño del mismo se realizó con SCSS. Lo cafés se cargan a través de un l
 ✔ web site: <a href="https://marianc90.github.io/CAC-22514-Cuartero-Garcia-Longarzo/index.html" target="_blank">
 CAFE BLENDS
 </a> 
-
-## <a href="https://github.com/marianc90/CAC-22514-Cuartero-Garcia-Longarzo" target="_blank">Café Blends</a>
 <p>
  
  ## <a href="https://github.com/marianc90/Proyecto-JS-CODERHOUSE" target="_blank">EasyInvest</a>
