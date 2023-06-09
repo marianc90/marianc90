@@ -40,7 +40,7 @@ Como primer proyecto del curso de Desarrollo Web, desarrollé el sitio de este T
 El mismo se realizó con SASS y Bootstrap.
 
 <p align="center">
-<img  src="https://i.imgur.com/ZuGfv8y.png" height='250px'>
+<img  src="https://i.imgur.com/jwIatgd.png" height='250px'>
 </p>
 
 ✔ web site: <a href="https://marianc90.github.io/gfc-sacabollos/" target="_blank">
