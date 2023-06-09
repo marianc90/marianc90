@@ -110,11 +110,32 @@ Para los templates se utilizó una plantilla con Bootstrap. Para el deployment s
 Blog Python - DJANGO/PYTHON
 </a> 
 
+## <a href="https://github.com/marianc90/CUARTERO---Back---Coder---Final" target="_blank">NodeCommerce</a>
+<p>
+ 
+Backend Project developed with Express, Node Js and Mongo DB. Architecture by layer.
+
+For the templates, a template with Bootstrap was used. Railway was used for the deployment.
+ 
+ ******
+ 
+Proyecto backend realizado con Express, Node Js y Mongo DB. Es un Ecommerce con CRUD de usuarios, y articulos.
+
+Para los templates se utilizó una plantilla con Bootstrap. Para el deployment se utilizó Railway.
+
+<p align="center">
+<img  src="https://i.imgur.com/eTfcqbh.png" height='250px'>
+</p>
+
+✔ web site: <a href="https://cuartero-back-coder-final-production.up.railway.app/" target="_blank">
+NodeCommerce - Express/NodeJS
+</a> 
+
 ## <a href="https://marianc90.github.io/SMARTCROW/" target="_blank">SmartCrow SRL</a>
 <p>
  
 Landing page for Romanian car repair site. (Made in 2 hours with a BOOTSTRAP TEMPLATE)
- 
+ https://i.imgur.com/eTfcqbh.png
  ******
  
 Landing page para sitio rumano de reparación de automotores. (Hecha en 2 horas con BOOTSTRAP TEMPLATE)
