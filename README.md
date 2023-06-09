@@ -29,7 +29,7 @@ Me considero alguien a quien le encanta aprender constantemente, conocer las dis
 
 ## <a href="https://github.com/marianc90/gfc-sacabollos" target="_blank">CEC PRO SACABOLLOS</a>
 <p>
-As the first project of the Web Development course, I developed the site for this Sacabollos Workshop.
+As the first project of the Web Development course, I developed the site for this PDR Workshop.
 
 The same was done with SASS and Bootstrap.
  
