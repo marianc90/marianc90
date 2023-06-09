@@ -77,12 +77,6 @@ It was done in Vanilla JS, HTML and CSS.
  
  ******
  
-Final project of my JAVASCRIPT course. In it, I developed a simulator of a platform for the purchase and sale of Common Investment Funds.
-
-It was done in Vanilla JS, HTML and CSS.
- 
- ******
- 
 Proyecto final integrador del curso de JAVASCRIPT. En el mismo desarrolle un simulador de una plataforma de compra y venta de Fondos Comunes de Inversion.
 
 El mismo se realizó en Vanilla JS, HTML y CSS.
