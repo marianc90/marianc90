@@ -1,4 +1,4 @@
-![](https://imgur.com/Cr1X5Px.jpg)
+![](https://media.licdn.com/dms/image/D4D16AQEVAvS2YIoCFg/profile-displaybackgroundimage-shrink_350_1400/0/1683214314085?e=1691625600&v=beta&t=eHo1aFiDSlNqJKMif1SR2DJhChCHjDt3hmmP0mvPvWs)
 
 ### Hi There! I'm Mariano Ariel Cuartero👋
 
