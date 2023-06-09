@@ -46,15 +46,6 @@ El mismo se realizó con SASS y Bootstrap.
 ✔ web site: <a href="https://marianc90.github.io/gfc-sacabollos/" target="_blank">
 CEC PRO SACABOLLOS
 </a> 
-
-## <a href="https://github.com/marianc90/Proyecto-JS-CODERHOUSE" target="_blank">EasyInvest</a>
-<p>
- 
-Final project of my JAVASCRIPT course. In it, I developed a simulator of a platform for the purchase and sale of Common Investment Funds.
-
-It was done in Vanilla JS, HTML and CSS.
- 
- ******
  
  ## <a href="https://github.com/marianc90/gfc-sacabollos" target="_blank">Café Blends</a>
 <p>
@@ -78,6 +69,15 @@ CAFE BLENDS
 
 ## <a href="https://github.com/marianc90/CAC-22514-Cuartero-Garcia-Longarzo" target="_blank">Café Blends</a>
 <p>
+ 
+ ## <a href="https://github.com/marianc90/Proyecto-JS-CODERHOUSE" target="_blank">EasyInvest</a>
+<p>
+ 
+Final project of my JAVASCRIPT course. In it, I developed a simulator of a platform for the purchase and sale of Common Investment Funds.
+
+It was done in Vanilla JS, HTML and CSS.
+ 
+ ******
  
 Final project of my JAVASCRIPT course. In it, I developed a simulator of a platform for the purchase and sale of Common Investment Funds.
 
