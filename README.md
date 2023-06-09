@@ -56,6 +56,35 @@ It was done in Vanilla JS, HTML and CSS.
  
  ******
  
+ ## <a href="https://github.com/marianc90/gfc-sacabollos" target="_blank">Café Blends</a>
+<p>
+As the first project of the Full Stack Python course, I developed the website for this Café Blends Shop.
+
+The design was done with SCSS. I used an API for calling the café data.
+ 
+ ******
+ 
+Como primer proyecto del curso de Python FullStack, desarrollé el sitio de Café Blends.
+
+El diseño del mismo se realizó con SCSS. Lo cafés se cargan a través de un llamado a una API de prueba.
+
+<p align="center">
+<img  src="https://i.imgur.com/zCuN1oq.png" height='250px'>
+</p>
+
+✔ web site: <a href="https://marianc90.github.io/CAC-22514-Cuartero-Garcia-Longarzo/index.html" target="_blank">
+CAFE BLENDS
+</a> 
+
+## <a href="https://github.com/marianc90/CAC-22514-Cuartero-Garcia-Longarzo" target="_blank">Café Blends</a>
+<p>
+ 
+Final project of my JAVASCRIPT course. In it, I developed a simulator of a platform for the purchase and sale of Common Investment Funds.
+
+It was done in Vanilla JS, HTML and CSS.
+ 
+ ******
+ 
 Proyecto final integrador del curso de JAVASCRIPT. En el mismo desarrolle un simulador de una plataforma de compra y venta de Fondos Comunes de Inversion.
 
 El mismo se realizó en Vanilla JS, HTML y CSS.
