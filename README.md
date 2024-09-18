@@ -159,7 +159,7 @@ Landing page for Romanian car repair site. (Made in 2 hours with a BOOTSTRAP TEM
  https://i.imgur.com/eTfcqbh.png
  ******
  
-Landing page para sitio rumano de reparación de automotores. (Hecha en 2 horas con BOOTSTRAP TEMPLATE)
+Landing page para sitio rumano de reparación de automotores. (Made from a BOOTSTRAP TEMPLATE)
 
 <p align="center">
 <img  src="https://i.imgur.com/VmPJPNL.png" height='250px'>
@@ -177,4 +177,4 @@ SmartCrow SRL
   Contact / Contacto <br/>
 ✔ Linkedin: <a href="https://www.linkedin.com/in/mariano-cuartero-393bbb38/">https://www.linkedin.com/in/mariano-cuartero-393bbb38/</a> <br/>
 ✔ WP: <a href="https://api.whatsapp.com/send?phone=549113814376&text=Gracias%20por%20contactar!" target="_blank">+54 9 11 3814 3176</a> (Móvil) <br/>
-✔ E-mail: cuarteroma@gamil.com <br/>
+✔ E-mail: cuarteroma@gmail.com <br/>
