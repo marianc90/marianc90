@@ -27,6 +27,26 @@ Me considero alguien a quien le encanta aprender constantemente, conocer las dis
 
 <h1 align="center"> Projects / Proyectos </h1>
 
+
+## <a href="https://github.com/marianc90/bancorio" target="_blank">BANCO RIO - HOME BANKING - PC</a>
+<p>
+This was a project for an academic course, I developed the desktop app for "Banco Río" based in 90's home desktop app.
+
+It was build with JAVA and SWING.
+ 
+ ******
+ 
+Este fue un proyecto académico, para la materia Laboratorio 1, de la Universidad de Palermo. Está basado en la antigua versión de pc del home banking de "Banco Rio".
+
+El mismo se realizó con JAVA y Swing. Tiene alta y gestión de cuentas, tarjetas, movimientos, usuarios, etc.
+
+<p align="center">
+<img  src="https://i.imgur.com/sWrji08.png" height='250px'>
+<img  src="https://i.imgur.com/x7aBVS1.png" height='250px'>
+</p>
+
+✔ BANCO RIO - HOME BANKING - PC 
+
 ## <a href="https://github.com/marianc90/gfc-sacabollos" target="_blank">CEC PRO SACABOLLOS</a>
 <p>
 As the first project of the Web Development course, I developed the site for this PDR Workshop.
