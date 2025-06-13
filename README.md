@@ -88,7 +88,7 @@ CAFE BLENDS
 </a> 
 <p>
  
- ## <a href="https://github.com/marianc90/Proyecto-JS-CODERHOUSE" target="_blank">EasyInvest</a>
+<!-- ## <a href="https://github.com/marianc90/Proyecto-JS-CODERHOUSE" target="_blank">EasyInvest</a>
 <p>
  
 Final project of my JAVASCRIPT course. In it, I developed a simulator of a platform for the purchase and sale of Common Investment Funds.
@@ -108,7 +108,7 @@ El mismo se realizó en Vanilla JS, HTML y CSS.
 ✔ web site: <a href="https://marianc90.github.io/Proyecto-JS-CODERHOUSE/index.html" target="_blank">
 EasyInvest - Fondos Comunes de Inversión
 </a> 
-
+ -->
 ## <a href="https://github.com/marianc90/e-Commerce-REACT-Cuartero-Mariano" target="_blank">MyStore - REACT JS</a>
 <p>
  
